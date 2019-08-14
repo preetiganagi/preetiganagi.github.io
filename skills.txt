@@ -1,0 +1,8 @@
+PHP
+Laravel
+Java
+Linux
+JavaScript
+C
+C++
+Vue.js
